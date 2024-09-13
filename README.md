@@ -14,7 +14,7 @@
 <p>git commit -m "Adiciona funcionalidade X"</p>
 <h3>5. Atualize seu Fork</h3>
 <p>Antes de enviar o pull request, certifique-se de que seu fork está atualizado com o repositório original:</p>
-<p>git checkout main</p>
+<p>git checkout master</p>
 <p>git pull origin master</p>
 <p>git checkout NOME_DA_FUNCIONALIDADE</p>
 <p>git rebase master</p>

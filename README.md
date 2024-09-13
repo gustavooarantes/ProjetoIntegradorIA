@@ -15,9 +15,9 @@
 <h3>5. Atualize seu Fork</h3>
 <p>Antes de enviar o pull request, certifique-se de que seu fork está atualizado com o repositório original:</p>
 <p>git checkout main</p>
-<p>git pull origin main</p>
+<p>git pull origin master</p>
 <p>git checkout NOME_DA_FUNCIONALIDADE</p>
-<p>git rebase main</p>
+<p>git rebase master</p>
 <h3>Envie seu Pull Request</h3>
 <p>Depois de fazer suas alterações e garantir que seu fork está atualizado, envie seu pull request:</p>
 <p>git push origin NOME_DA_FUNCIONALIDADE</p>
